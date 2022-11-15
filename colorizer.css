@@ -1,0 +1,39 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    displey: flex;
+    flex-direction: column;
+}
+
+#text_div {
+    margin-top: 2rem;
+    border: black solid 1px;
+    width: 15rem;
+    min-height: 5rem;
+    border-radius: .5rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 15rem;
+}
+
+input {
+    border: black solid 1px;
+}
+
+.color_1 {
+    color: red;
+} 
+
+.color_2 {
+    color: green;
+} 
+
+.color_3 {
+    color: blue;
+}
